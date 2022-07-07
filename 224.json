@@ -3,7 +3,7 @@
     "symbol": "FK",
     "description": "Collection of 1000 Fake Character. This is the number 225/1000.",
     "seller_fee_basis_points": 1500,
-    "image": "https://raw.githubusercontent.com/wfp2002/mintchange/main/224.png",
+    "image": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeidyaw6d62mgenbkhhchpie34abufutnnhqoy3itskh6ezg3uh2nvu.ipfs.dweb.link/615.png?ext=png",
     "dna":"AUGCUUUUGUUCUUAUUUCUUUUCCUCUUUUUGCUAUUUCUAUUCUUGUUUCUCCUGUUCUUCUUAUUUUUCUUCUUCUUCUUCUUCUUCCUGUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCGGGGACACUAUUUUUCACCGAUUGGACCCACUUCAUCCGGACGUUAGAAAGCUGUUAGUUCCGUAUGAAAAAUCUUUCUUCUUC",
     "attributes": [
         {"trait_type": "Background", "value": 8},
@@ -44,7 +44,7 @@
     ],
     "properties": {
         "creators": [{"address": "TreqPucAfLrNFBtnhHPg3B1sKmCpqm7qk8hUZ1Fc38c", "share": 100}],
-        "files": [{"uri": "https://raw.githubusercontent.com/wfp2002/mintchange/main/224.png", "type": "image/png"}]
+        "files": [{"uri": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeidyaw6d62mgenbkhhchpie34abufutnnhqoy3itskh6ezg3uh2nvu.ipfs.dweb.link/615.png?ext=png", "type": "image/png"}]
     },
     "collection": {"name": "Fake Character", "family": "Season1"}
 }
