@@ -3,7 +3,7 @@
     "symbol": "FK",
     "description": "Collection of 1000 Fake Character. This is the number 225/1000.",
     "seller_fee_basis_points": 1500,
-    "image": "224.png",
+    "image": "https://github.com/wfp2002/mintchange/blob/main/224.png",
     "dna":"AUGCUUUUGUUCUUAUUUCUUUUCCUCUUUUUGCUAUUUCUAUUCUUGUUUCUCCUGUUCUUCUUAUUUUUCUUCUUCUUCUUCUUCUUCCUGUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCGGGGACACUAUUUUUCACCGAUUGGACCCACUUCAUCCGGACGUUAGAAAGCUGUUAGUUCCGUAUGAAAAAUCUUUCUUCUUC",
     "attributes": [
         {"trait_type": "Background", "value": 8},
@@ -44,7 +44,7 @@
     ],
     "properties": {
         "creators": [{"address": "TreqPucAfLrNFBtnhHPg3B1sKmCpqm7qk8hUZ1Fc38c", "share": 100}],
-        "files": [{"uri": "224.png", "type": "image/png"}]
+        "files": [{"uri": "https://github.com/wfp2002/mintchange/blob/main/224.png", "type": "image/png"}]
     },
     "collection": {"name": "Fake Character", "family": "Season1"}
 }
