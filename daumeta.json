@@ -2,7 +2,6 @@
   "name": "DAUGHTER",
   "symbol": "DAU",
   "description": "Token DAU",
-  "image": "https://cryptotitans-dna-prod.global.ssl.fastly.net/minigame.jpg",
-  "animation_url": "https://cryptotitans-dna-prod.global.ssl.fastly.net/minigame.jpg",
-  "external_url": "https://cryptotitans.com/game"
+  "image": "https://raw.githubusercontent.com/wfp2002/mintchange/main/1.png"
+  "external_url": "https://dau.com/game"
 }
