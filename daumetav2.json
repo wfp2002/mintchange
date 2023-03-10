@@ -1,7 +1,6 @@
 {
-  "name": "DAUGHTER",
+  "name": "Daughter Token",
   "symbol": "DAU",
-  "description": "Token DAU",
-  "image": "https://raw.githubusercontent.com/wfp2002/mintchange/main/1.png"
-  "external_url": "https://dau.com"
+  "description": "This is the token utility for DAU Game.",
+  "image": "https://raw.githubusercontent.com/wfp2002/fakecharacter/main/logo.png"
 }
